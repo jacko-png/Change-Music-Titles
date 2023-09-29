@@ -14,4 +14,4 @@ Steps:
 7. Wait for the script to finish
 
 Disclaimer:
-This is probably coded really poorly, as I haven't formally learned coding yet. You could liken me to a ten-year-old on his C64 following his BASIC manual, kinda, but also someone with a goal in mind.
+This is probably coded really poorly, as I haven't formally learned coding yet. You could liken me to a ten-year-old on his C64 following his BASIC manual, kinda, but also someone with a goal in mind. idk.
